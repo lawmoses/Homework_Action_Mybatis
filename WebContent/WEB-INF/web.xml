@@ -11,7 +11,7 @@
   <filter-mapping> 
     <filter-name>encodingFilter</filter-name>
     <url-pattern>/*</url-pattern>
-  </filter-mapping>
+  </filter-mapping> 
   <servlet>
     <servlet-name>board</servlet-name>
     <servlet-class>controller.BoardController</servlet-class>
